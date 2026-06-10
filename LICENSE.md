@@ -1,4 +1,4 @@
-# 
+# VIP AI Handwriting Recognition 扩展。集成 云端AI 和 生成式AI，性能最大化。
 
 
 
